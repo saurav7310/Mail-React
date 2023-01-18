@@ -1,0 +1,9 @@
+.listItem:hover {
+  background-color: rgb(126, 186, 254);
+}
+.inboxHead {
+  display: flex;
+}
+p {
+  margin: 10px;
+}
